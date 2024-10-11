@@ -1,0 +1,31 @@
+.footer {
+  background-color: #3c373c;
+  color:white;
+  text-align: center;
+  padding: 1px;
+  position: fixed;
+  height: 50px;
+  bottom: 0;
+  width: 100%;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.newsletter {
+  margin-right: 10px;
+}
+
+.icon {
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+
+
+
+
+

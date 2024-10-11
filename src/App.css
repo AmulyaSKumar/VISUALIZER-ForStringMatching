@@ -1,0 +1,24 @@
+.App {
+  height: 80vh;
+  width: 80%;
+}
+
+.react-flow__node-default {
+  background: #6c6;
+  color: #fff;
+  border: 1px solid #222138;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.react-flow__edge-path {
+  stroke: #222138;
+  stroke-width: 2;
+}
+
+.react-flow__edge-text {
+  fill: #222138;
+  font-weight: bold;
+}

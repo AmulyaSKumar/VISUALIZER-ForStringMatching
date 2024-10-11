@@ -1,0 +1,32 @@
+.quiz-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .question-container {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    color:#840c84;
+    font-size: 20px;
+  }
+  
+  .button-container {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  

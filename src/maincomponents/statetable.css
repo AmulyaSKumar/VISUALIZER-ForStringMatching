@@ -1,0 +1,80 @@
+.automata-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.full-screen {
+  width: 100%;
+  max-width: 800px; /* Adjust max-width as needed */
+  padding: 20px;
+  
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.input-container div {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.custom-table th,
+.custom-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.next-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  height: 50px;
+  background-color: #840c84;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.ic {
+  margin-bottom: 15px; /* Adds space between each input container */
+}
+
+label {
+  width: 100px; /* Adjust width as needed */
+  font-weight: bold; /* Makes labels bold */
+  margin-right: 10px; /* Adds space between label and input */
+}
+
+input[type="text"] {
+  width: 250px; /* Adjust width as needed */
+  padding: 8px;
+  border: 1px solid #ccc; /* Adds a light border */
+  border-radius: 4px; /* Rounds the corners */
+  box-sizing: border-box; /* Ensures padding and border are included in width */
+}
+
+input[type="text"]:focus {
+  outline: none; /* Removes default focus outline */
+  border-color: #840c84; /* Changes border color on focus */
+  box-shadow: 0 0 5px rgba(102, 175, 233, 0.5); /* Adds a subtle shadow on focus */
+}
+.notification {
+	background: #f0f0f0;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 10px;
+	text-align: center;
+}
+

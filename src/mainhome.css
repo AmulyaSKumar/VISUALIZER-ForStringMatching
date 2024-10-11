@@ -1,0 +1,33 @@
+/* Add these styles to your CSS file */
+.parent {
+  display: flex;
+  justify-content: center;  /* Center horizontally */
+  align-items: center;      /* Center vertically */
+  height: 100vh;            /* Full viewport height */
+}
+
+.bigbox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  width: 800px;
+  text-align: center;
+  border: 1px solid;
+}
+
+#popupanim {
+  margin: 20px 0;
+}
+
+.pop1, .pop2, .pop3, .pop4 {
+  margin: 5px 0;
+}
+
+.pop2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-family: helvetica;
+  color: #840c84;
+}
