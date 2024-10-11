@@ -26,16 +26,14 @@ To run this project on your local machine, follow these steps:
 ### Steps to Run the Project:
 
 1. **Clone the Repository**:
-   Open your terminal and run the following command:
-   git clone https://github.com/AmulyaSKumar/VISUALIZER-ForStringMatching.git
+   Open your terminal and run the following command: `git clone https://github.com/AmulyaSKumar/VISUALIZER-ForStringMatching.git`
    
 2. **Navigate to the Project Directory**:
-     cd VISUALIZER-ForStringMatching
+   `cd VISUALIZER-ForStringMatching`
 
 3. **Install Dependencies**:
-     Use npm to install the required packages:
-     npm install
+   Use npm to install the required packages: `npm install`
 
 4. **Start the Development Server**:
-     Once the dependencies are installed, run the following command to start the app:
-     npm start
+   Once the dependencies are installed, run the following command to start the app: `npm start`
+
