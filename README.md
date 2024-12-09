@@ -1,5 +1,6 @@
 # String Matching Visualizer using Finite Automata
 
+Prview [Visualizer](https://visualizer-for-string-matching-8rzh.vercel.app/)
 ## Overview
 
 This project is a **String Matching Visualizer** built using **ReactJS**, which demonstrates how the **Finite Automata** concept works for string matching. The tool provides a step-by-step visualization of the string matching process, making it easier to understand how this algorithm functions.
